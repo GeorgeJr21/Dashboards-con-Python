@@ -1,4 +1,4 @@
-# Wine Quality Dashboard — 100% Python
+# Wine Quality Dashboard — Python
 
 Dashboard interactivo sobre el dataset **Wine Quality (red)** de UCI,
 separado en **backend** y **frontend**, ambos escritos enteramente en
